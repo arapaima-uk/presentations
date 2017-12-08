@@ -1,0 +1,3 @@
+[submodule "slides-tsqlt-groupby"]
+	path = slides-tsqlt-groupby
+	url = https://github.com/arapaima-uk/slides-tsqlt-groupby.git
