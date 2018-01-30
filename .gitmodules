@@ -1,3 +1,6 @@
 [submodule "slides-tsqlt-groupby"]
 	path = slides-tsqlt-groupby
 	url = https://github.com/arapaima-uk/slides-tsqlt-groupby.git
+[submodule "ssdt-vsts-winops18"]
+	path = ssdt-vsts-winops18
+	url = https://github.com/arapaima-uk/database-cd-ssdt-vsts.git
