@@ -4,3 +4,6 @@
 [submodule "ssdt-vsts-winops18"]
 	path = ssdt-vsts-winops18
 	url = https://github.com/arapaima-uk/database-cd-ssdt-vsts.git
+[submodule "database-cd-sqlbits-2018"]
+	path = database-cd-sqlbits-2018
+	url = git://github.com/arapaima-uk/database-cd-ssdt-vsts
